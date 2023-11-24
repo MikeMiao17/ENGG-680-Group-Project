@@ -1,0 +1,124 @@
+﻿Industry,Year,Person-Years,Lost-Time Claims,Lost-Time Claim Rate,Modified-Work Claims,Modified-work claims injury claim rate,Disabling Injury Claims,Disabling Injury Claim Rate,Fatalities,Fatality Rate
+Agriculture and forestry,2007,NaN,NaN,NaN,NaN,NaN,NaN,NaN,5,NaN
+"Business, personal and professional services",2007,NaN,NaN,NaN,NaN,NaN,NaN,NaN,9,NaN
+Construction and construction trade services,2007,NaN,NaN,NaN,NaN,NaN,NaN,NaN,51,NaN
+"Manufacturing, processing and packaging",2007,NaN,NaN,NaN,NaN,NaN,NaN,NaN,22,NaN
+Mining and petroleum development,2007,NaN,NaN,NaN,NaN,NaN,NaN,NaN,10,NaN
+"Public administration, education and health services",2007,NaN,NaN,NaN,NaN,NaN,NaN,NaN,14,NaN
+"Transportation, communication and utilities",2007,NaN,NaN,NaN,NaN,NaN,NaN,NaN,28,NaN
+Wholesale and retail,2007,NaN,NaN,NaN,NaN,NaN,NaN,NaN,11,NaN
+Unspecified Sector,2007,NaN,NaN,NaN,NaN,NaN,NaN,NaN,4,NaN
+Agriculture and forestry,2008,NaN,NaN,NaN,NaN,NaN,NaN,NaN,2,NaN
+"Business, personal and professional services",2008,NaN,NaN,NaN,NaN,NaN,NaN,NaN,11,NaN
+Construction and construction trade services,2008,NaN,NaN,NaN,NaN,NaN,NaN,NaN,64,NaN
+"Manufacturing, processing and packaging",2008,NaN,NaN,NaN,NaN,NaN,NaN,NaN,18,NaN
+Mining and petroleum development,2008,NaN,NaN,NaN,NaN,NaN,NaN,NaN,13,NaN
+"Public administration, education and health services",2008,NaN,NaN,NaN,NaN,NaN,NaN,NaN,14,NaN
+"Transportation, communication and utilities",2008,NaN,NaN,NaN,NaN,NaN,NaN,NaN,23,NaN
+Wholesale and retail,2008,NaN,NaN,NaN,NaN,NaN,NaN,NaN,13,NaN
+Unspecified Sector,2008,NaN,NaN,NaN,NaN,NaN,NaN,NaN,6,NaN
+Agriculture and forestry,2009,NaN,NaN,NaN,NaN,NaN,NaN,NaN,5,NaN
+"Business, personal and professional services",2009,NaN,NaN,NaN,NaN,NaN,NaN,NaN,1,NaN
+Construction and construction trade services,2009,NaN,NaN,NaN,NaN,NaN,NaN,NaN,34,NaN
+"Manufacturing, processing and packaging",2009,NaN,NaN,NaN,NaN,NaN,NaN,NaN,17,NaN
+Mining and petroleum development,2009,NaN,NaN,NaN,NaN,NaN,NaN,NaN,13,NaN
+"Public administration, education and health services",2009,NaN,NaN,NaN,NaN,NaN,NaN,NaN,13,NaN
+"Transportation, communication and utilities",2009,NaN,NaN,NaN,NaN,NaN,NaN,NaN,12,NaN
+Wholesale and retail,2009,NaN,NaN,NaN,NaN,NaN,NaN,NaN,10,NaN
+Unspecified Sector,2009,NaN,NaN,NaN,NaN,NaN,NaN,NaN,5,NaN
+Agriculture and forestry,2010,9814,237,2.41,167,1.70,301,3.07,4,0.04
+"Business, personal and professional services",2010,322123,2876,0.89,3067,0.95,4351,1.35,6,0.00
+Construction and construction trade services,2010,317886,4419,1.39,7701,2.42,9866,3.10,59,0.02
+"Manufacturing, processing and packaging",2010,171448,2664,1.55,6180,3.60,7224,4.21,15,0.01
+Mining and petroleum development,2010,155503,626,0.40,2241,1.44,2453,1.58,15,0.01
+"Public administration, education and health services",2010,310342,6140,1.98,5141,1.66,8113,2.61,8,0.00
+"Transportation, communication and utilities",2010,132882,2668,2.01,3206,2.41,4529,3.41,21,0.02
+Wholesale and retail,2010,309357,4710,1.52,6977,2.26,8626,2.79,7,0.00
+Agriculture and forestry,2011,11018,211,1.92,137,1.24,257,2.33,1,0.01
+"Business, personal and professional services",2011,326786,3250,0.99,3530,1.08,5037,1.54,2,0.00
+Construction and construction trade services,2011,349449,4621,1.32,7617,2.18,9884,2.83,55,0.02
+"Manufacturing, processing and packaging",2011,181700,3047,1.68,7101,3.91,8253,4.54,16,0.01
+Mining and petroleum development,2011,163077,767,0.47,2786,1.71,3031,1.86,10,0.01
+"Public administration, education and health services",2011,313708,6716,2.14,5265,1.68,8805,2.81,14,0.00
+"Transportation, communication and utilities",2011,127589,2953,2.31,3554,2.79,5039,3.95,15,0.01
+Wholesale and retail,2011,319230,5061,1.59,7426,2.33,9212,2.89,7,0.00
+Agriculture and forestry,2012,11683,212,1.81,194,1.66,305,2.61,2,0.02
+"Business, personal and professional services",2012,351767,3401,0.97,3790,1.08,5380,1.53,7,0.00
+Construction and construction trade services,2012,377918,4865,1.29,8963,2.37,10938,2.89,42,0.01
+"Manufacturing, processing and packaging",2012,200380,3336,1.66,7784,3.88,8979,4.48,16,0.01
+Mining and petroleum development,2012,188043,694,0.37,2523,1.34,2705,1.44,20,0.01
+"Public administration, education and health services",2012,332853,6943,2.09,5911,1.78,9423,2.83,15,0.00
+"Transportation, communication and utilities",2012,134696,2774,2.06,3864,2.87,5057,3.75,23,0.02
+Wholesale and retail,2012,340886,5005,1.47,8350,2.45,9833,2.88,10,0.00
+Agriculture and forestry,2013,12355,239,1.93,190,1.54,315,2.55,1,0.01
+"Business, personal and professional services",2013,357184,3427,0.96,3974,1.11,5655,1.58,5,0.00
+Construction and construction trade services,2013,434776,5046,1.16,10057,2.31,12134,2.79,67,0.02
+"Manufacturing, processing and packaging",2013,201498,2880,1.43,7321,3.63,8268,4.10,28,0.01
+Mining and petroleum development,2013,188062,613,0.33,2293,1.22,2452,1.30,15,0.01
+"Public administration, education and health services",2013,327891,6799,2.07,6221,1.90,9471,2.89,25,0.01
+"Transportation, communication and utilities",2013,140844,2797,1.99,4227,3.00,5373,3.81,27,0.02
+Wholesale and retail,2013,351624,5155,1.47,8573,2.44,10112,2.88,4,0.00
+Agriculture and forestry,2014,12627,263,2.08,210,1.66,349,2.76,3,0.02
+"Business, personal and professional services",2014,370858,3363,0.91,4034,1.09,5564,1.50,4,0.00
+Construction and construction trade services,2014,436736,5280,1.21,10548,2.42,12589,2.88,68,0.02
+"Manufacturing, processing and packaging",2014,202582,2778,1.37,7106,3.51,8051,3.97,18,0.01
+Mining and petroleum development,2014,198743,836,0.42,2692,1.35,2902,1.46,20,0.01
+"Public administration, education and health services",2014,340176,7107,2.09,6628,1.95,9796,2.88,16,0.00
+"Transportation, communication and utilities",2014,159082,2804,1.76,4308,2.71,5349,3.36,17,0.01
+Wholesale and retail,2014,361612,5342,1.48,9098,2.52,10590,2.93,9,0.00
+Agriculture and forestry,2015,"13,226",263,1.99,219,1.66,358,2.71,0,0.00
+"Business, personal and professional services",2015,"362,775","3,460",0.95,"3,876",1.07,"5,432",1.50,7,0.00
+Construction and construction trade services,2015,"418,551","4,694",1.12,"8,758",2.09,"10,594",2.53,32,0.01
+"Manufacturing, processing and packaging",2015,"188,464","2,376",1.26,"5,470",2.90,"6,225",3.30,14,0.01
+Mining and petroleum development,2015,"178,701",476,0.27,"1,478",0.83,"1,600",0.90,4,0.00
+"Public administration, education and health services",2015,"331,854","6,886",2.08,"6,564",1.98,"9,520",2.87,17,0.01
+"Transportation, communication and utilities",2015,"154,603","2,371",1.53,"3,391",2.19,"4,339",2.81,18,0.01
+Wholesale and retail,2015,"362,078","5,115",1.41,"8,308",2.29,"9,776",2.70,8,0.00
+Agriculture and forestry,2016,"16,668",450,2.70,349,2.09,572,3.43,6,0.04
+"Business, personal and professional services",2016,"340,488","3,345",0.98,"3,971",1.17,"5,314",1.56,7,0.00
+Construction and construction trade services,2016,"343,269","3,876",1.13,"7,431",2.16,"8,860",2.58,52,0.02
+"Manufacturing, processing and packaging",2016,"168,121","1,761",1.05,"4,755",2.83,"5,251",3.12,18,0.01
+Mining and petroleum development,2016,"143,525",437,0.30,"1,117",0.78,"1,247",0.87,14,0.01
+"Public administration, education and health services",2016,"346,586","7,353",2.12,"7,268",2.10,"10,245",2.96,17,0.00
+"Transportation, communication and utilities",2016,"137,836","1,980",1.44,"3,177",2.30,"3,855",2.80,23,0.02
+Wholesale and retail,2016,"340,068","4,461",1.31,"7,854",2.31,"8,962",2.64,8,0.00
+Agriculture and forestry,2017,"20,972",478,2.28,395,1.88,627,2.99,6,0.03
+"Business, personal and professional services",2017,"343,653","3,607",1.05,"4,343",1.26,"5,835",1.70,3,0.00
+Construction and construction trade services,2017,"328,688","4,072",1.24,"7,693",2.34,"9,211",2.80,71,0.02
+"Manufacturing, processing and packaging",2017,"175,426","2,083",1.19,"5,057",2.88,"5,677",3.24,27,0.02
+Mining and petroleum development,2017,"146,648",633,0.43,"1,675",1.14,"1,848",1.26,8,0.01
+"Public administration, education and health services",2017,"352,864","8,199",2.32,"8,187",2.32,"11,460",3.25,28,0.01
+"Transportation, communication and utilities",2017,"137,693","2,345",1.70,"3,485",2.53,"4,387",3.19,17,0.01
+Wholesale and retail,2017,"340,225","4,759",1.40,"8,700",2.56,"9,907",2.91,9,0.00
+Agriculture and forestry,2018,"22,716",499,2.20,423,1.86,675,2.97,3,0.01
+"Business, personal and professional services",2018,"352,610","3,734",1.06,"4,343",1.23,"5,968",1.69,8,0.00
+Construction and construction trade services,2018,"331,966","4,431",1.33,"7,863",2.37,"9,506",2.86,56,0.02
+"Manufacturing, processing and packaging",2018,"177,349","2,301",1.30,"5,240",2.95,"5,964",3.36,30,0.02
+Mining and petroleum development,2018,"143,240",642,0.45,"1,727",1.21,"1,907",1.33,11,0.01
+"Public administration, education and health services",2018,"359,940","8,885",2.47,"8,641",2.40,"12,237",3.40,20,0.01
+"Transportation, communication and utilities",2018,"143,579","2,665",1.86,"3,689",2.57,"4,735",3.30,22,0.02
+Wholesale and retail,2018,"345,940","5,021",1.45,"8,949",2.59,"10,314",2.98,11,0.00
+Agriculture and forestry,2019,"23,640",577,2.44,526,2.23,843,3.57,3,0.01
+"Business, personal and professional services",2019,"361,540","3,774",1.04,"4,091",1.13,"5,876",1.63,4,0.00
+Construction and construction trade services,2019,"316,176","4,143",1.31,"6,585",2.08,"8,404",2.66,53,0.02
+"Manufacturing, processing and packaging",2019,"174,954","2,225",1.27,"4,936",2.82,"5,789",3.31,22,0.01
+Mining and petroleum development,2019,"140,747",634,0.45,"1,431",1.02,"1,681",1.19,10,0.01
+"Public administration, education and health services",2019,"370,074","9,839",2.66,"8,545",2.31,"12,994",3.51,19,0.01
+"Transportation, communication and utilities",2019,"142,412","2,731",1.92,"3,362",2.36,"4,655",3.27,24,0.02
+Wholesale and retail,2019,"356,358","5,413",1.52,"8,274",2.32,"10,246",2.88,11,0.00
+Agriculture and forestry,2020,"24,325",454,1.87,496,2.04,721,2.96,8,0.03
+"Business, personal and professional services",2020,"305,439","2,503",0.82,"2,534",0.83,"3,733",1.22,3,0.00
+Construction and construction trade services,2020,"295,867","3,268",1.10,"4,848",1.64,"6,434",2.17,66,0.02
+"Manufacturing, processing and packaging",2020,"156,777","1,798",1.15,"3,711",2.37,"4,400",2.81,23,0.01
+Mining and petroleum development,2020,"132,015",534,0.40,"1,060",0.80,"1,284",0.97,9,0.01
+"Public administration, education and health services",2020,"344,319","8,330",2.42,"6,871",2.00,"10,617",3.08,22,0.01
+"Transportation, communication and utilities",2020,"131,337","2,081",1.58,"2,509",1.91,"3,511",2.67,22,0.02
+Wholesale and retail,2020,"320,649","4,631",1.44,"7,027",2.19,"8,664",2.70,10,0.00
+Agriculture and forestry,2021,"24,559",454,1.85,419,1.71,658,2.68,4,0.02
+"Business, personal and professional services",2021,"319,893","3,072",0.96,"2,933",0.92,"4,462",1.39,1,0.00
+Construction and construction trade services,2021,"308,292","3,377",1.10,"5,532",1.79,"7,140",2.32,41,0.01
+"Manufacturing, processing and packaging",2021,"168,021","1,968",1.17,"3,946",2.35,"4,711",2.80,14,0.01
+Mining and petroleum development,2021,"132,755",495,0.37,"1,257",0.95,"1,456",1.10,8,0.01
+"Public administration, education and health services",2021,"361,677","9,197",2.54,"7,170",1.98,"11,480",3.17,17,0.00
+"Transportation, communication and utilities",2021,"139,417","2,318",1.66,"2,776",1.99,"3,895",2.79,14,0.01
+Wholesale and retail,2021,"344,687","4,974",1.44,"8,358",2.42,"10,199",2.96,12,0.00
